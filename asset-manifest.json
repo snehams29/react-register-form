@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-register-form/static/css/main.1915183c.css",
+    "main.js": "/react-register-form/static/js/main.10887958.js",
+    "static/js/787.5396358d.chunk.js": "/react-register-form/static/js/787.5396358d.chunk.js",
+    "index.html": "/react-register-form/index.html",
+    "main.1915183c.css.map": "/react-register-form/static/css/main.1915183c.css.map",
+    "main.10887958.js.map": "/react-register-form/static/js/main.10887958.js.map",
+    "787.5396358d.chunk.js.map": "/react-register-form/static/js/787.5396358d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1915183c.css",
+    "static/js/main.10887958.js"
+  ]
+}
